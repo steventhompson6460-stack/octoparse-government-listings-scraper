@@ -1,0 +1,13 @@
+{
+ "base_url": "https://gov.example.gov/listings",
+ "pagination": {
+ "start_page": 1,
+ "max_pages": 3,
+ "page_param": "page"
+ },
+ "selectors": {
+ "listing_items": ".listing-card",
+ "detail_link": "a.read-more"
+ },
+ "output_file": "data/output.csv"
+}
