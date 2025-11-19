@@ -1,0 +1,2 @@
+text# Example input file for scraper workflow
+https://gov.example.gov/listings
