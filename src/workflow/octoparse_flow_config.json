@@ -1,0 +1,11 @@
+{
+ "pagination": {
+ "start_page": 1,
+ "max_pages": 5,
+ "page_param": "page"
+ },
+ "selectors": {
+ "listing_items": ".listing-item",
+ "detail_link": "a.detail-link"
+ }
+}
